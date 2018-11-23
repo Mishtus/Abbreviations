@@ -1,0 +1,2 @@
+all:
+	g++ main.cpp AbstractAlgorithm.hpp FileProcessing.cpp FileProcessing.hpp SearchAlgorithm.cpp SearchAlgorithm.hpp -o Abbreviation
